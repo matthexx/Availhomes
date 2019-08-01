@@ -7,7 +7,7 @@
 </p>
 
 ## A simple apartment listing app
-## built with Laravel web service and vuejs for front end  
+## built with Laravel web service and vue js 
 
 Shows list of available apartments, supports and facillities just like AirBnB such as:
 
@@ -15,7 +15,7 @@ Shows list of available apartments, supports and facillities just like AirBnB su
 - address
 - about
 
-- Features
+* Features
 - wif
 - tv
 - kitchen
