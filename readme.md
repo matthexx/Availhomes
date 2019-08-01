@@ -6,18 +6,29 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## A simple apartment listing app built with Laravel web service and vue front end  
+## A simple apartment listing app
+## built with Laravel web service and vuejs for front end  
 
 Shows list of available apartments, supports and facillities just like AirBnB such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Apartment title  
+- address
+- about
 
+- Features
+- wif
+- tv
+- kitchen
+- pets allowed
+- breakfast
+- laptop
+- monthly price discount
+- weekly price discount
+
+- price_per_night
+- price_extra_people
+
+       
 
 
 
