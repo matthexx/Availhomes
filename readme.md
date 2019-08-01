@@ -15,18 +15,17 @@ Shows list of available apartments, supports and facillities just like AirBnB su
 - address
 - about
 
-* Features
-- wif
-- tv
-- kitchen
-- pets allowed
-- breakfast
-- laptop
-- monthly price discount
-- weekly price discount
+  Features
+  
+- wif                  - breakfast
+- tv                   - laptop
+- kitchen              - monthly price discount
+- pets allowed         - weekly price discount
 
-- price_per_night
-- price_extra_people
+
+
+- price_per_night      - price_extra_people
+
 
        
 
